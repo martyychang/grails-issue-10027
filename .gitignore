@@ -1,0 +1,8 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Grails
+.slcache/
+target/
+.asscache
